@@ -1,4 +1,4 @@
-recipefirst
+tldr
 ===========
 
-RecipeFirst Chrome Extension
+TLDR Chrome Extension
